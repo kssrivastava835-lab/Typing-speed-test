@@ -4,7 +4,7 @@ Author - Kshitij Srivastava
 
 Characteristics
 - A typing test that you can do on the command line
-- Calculate typing speed in real time . Finding errors by comparing characters one by one Choose a random sentence for each test. Get instant feedback on your performance.  Keep testing (play multiple times).
+- Calculate typing speed in real time , Finding errors by comparing characters one by one Choose a random sentence for each test. Get instant feedback on your performance.  Keep testing (play multiple times).
 
 Tech Stack: Python 3 Built-in libraries: time for keeping track of how long you type and random for picking random test sentences.
 
